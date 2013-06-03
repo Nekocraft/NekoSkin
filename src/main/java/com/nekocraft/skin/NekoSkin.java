@@ -49,10 +49,10 @@ public class NekoSkin extends JavaPlugin {
 	}
 
 	public String getSkinurl(String player) {
-		return String.format(skinurl, player);
+		return String.format(skinurl, player.toLowerCase());
 	}
 
 	public String getCloakurl(String player) {
-		return String.format(cloakurl, player);
+		return String.format(cloakurl, player.toLowerCase());
 	}
 }
