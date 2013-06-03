@@ -4,5 +4,5 @@
 #  General Settings
 ###
 setting:
-    skinurl: http://nekocraft.com/api/skin/%s
-    cloakurl: http://nekocraft.com/api/cloak/%s
+    skinurl: http://skins.nekocraft.com/nekoskin/%s.png
+    cloakurl: http://skins.nekocraft.com/nekocloak/%s.png
