@@ -1,0 +1,8 @@
+#  nekoskin configuration
+
+###
+#  General Settings
+###
+setting:
+    skinurl: http://nekocraft.com/api/skin/%s
+    cloakurl: http://nekocraft.com/api/cloak/%s

@@ -1,0 +1,7 @@
+name: NekoSkin
+main: com.nekocraft.skin.NekoSkin
+version: 1.0
+depend: [Spout]
+permissions:
+
+commands:
